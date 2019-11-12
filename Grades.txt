@@ -1,0 +1,8 @@
+bruce, 56
+kevin, 35
+dan, 60
+chris, 60
+keith, 56
+cory, 34
+carl, 33
+-END-
